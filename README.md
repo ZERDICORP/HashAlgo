@@ -27,3 +27,7 @@ public class Main
   }
 }
 ```
+```
+$ javac Main.java && java Main
+b9536f99aac5a3f5e4f26812d6ad4ccbb0c8a1d28d6285c135ff775ab94b91bd
+```
